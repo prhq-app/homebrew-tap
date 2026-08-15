@@ -2,7 +2,7 @@ cask "prhq" do
   version "1.0.0"
   sha256 "2d6e7dfccd49f3b1a05288c72f8d8a6c6b8d78671653e3e4a931ff3ee995e3e0"
 
-  url "https://github.com/prhq-app/prhq-releases/releases/download/v#{version}/PRHQ-#{version}.dmg"
+  url "https://github.com/prhq-app/releases/releases/download/v#{version}/PRHQ-#{version}.dmg"
   name "PRHQ"
   desc "Real-time GitHub pull request and CI notifications through a floating notch"
   homepage "https://prhq.app/"
