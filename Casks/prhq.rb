@@ -1,6 +1,6 @@
 cask "prhq" do
-  version "1.0.5"
-  sha256 "b437d0e2e2201b51bb7f72c3b3b4478609985d67fff944f475ba706d458ac3b8"
+  version "1.0.6"
+  sha256 "84aac25a4c7b5c23f426f58cb65cd8c16370f56d493cb8a643bcdfb8f097cbe9"
 
   url "https://github.com/prhq-app/releases/releases/download/v#{version}/PRHQ-#{version}.dmg"
   name "PRHQ"
